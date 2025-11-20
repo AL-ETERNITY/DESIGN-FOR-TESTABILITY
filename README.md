@@ -1,4 +1,4 @@
-# LBIST-Based Design for Testability of MIPS32 Processor
+# Low Power Scan chain based LBIST-Design for Testability of MIPS32 Processor
 
 ## 📋 Project Overview
 
